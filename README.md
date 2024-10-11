@@ -6,7 +6,7 @@ My projects range from building full-stack web applications to data-driven solut
 
 ### Technologies & Tools:
 - Python, Node.js, C++, MySQL, MongoDB
-- Web Development (HTML, CSS, JavaScript, React)
+- Web Development (HTML, CSS, JavaScript, React, Angular)
 - Data Analysis & Visualization
 
 I'm always open to collaborating or discussing interesting projects, so feel free to explore my repositories or reach out!
