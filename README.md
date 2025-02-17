@@ -4,9 +4,4 @@ I'm a **Computer Science** student at Tecnológico de Monterrey, passionate abou
 
 My projects range from building full-stack web applications to data-driven solutions, and I'm always on the lookout for new challenges to grow and improve my skills.
 
-### Technologies & Tools:
-- Python, Node.js, C++, MySQL, MongoDB
-- Web Development (HTML, CSS, JavaScript, React, Angular)
-- Data Analysis & Visualization
-
 I'm always open to collaborating or discussing interesting projects, so feel free to explore my repositories or reach out!
